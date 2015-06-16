@@ -36,3 +36,4 @@ Dampak positif dan dampak negative dari perkembangan teknologi dilihat dari berb
 
 1.	Bidang Informasi dan komunikasi
 •	Dalam bidang informasi dan komunikasi telah terjadi kemajuan yang sangat pesat. Dari kemajuan dapat kita rasakan dampak positifnya antara lain:
+•	Kita akan lebih cepat mendapatkan informasi- informasi yang akurat dan terbaru di bumi bagian manapun melalui internet
