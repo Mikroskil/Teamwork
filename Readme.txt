@@ -31,3 +31,8 @@ Jenis media baru
 
 5.      Komunikasi Satelit
 •	Komunikasi satelit terdiri dari pesan telepon, siaran televisi dan pesan lain dari suatu tempat di permukaan lain. Satelit ini biasanya diletakan di stationer atau di sekitar khatulistiwa sekita 22.300 mil dari permukaan bumi. Pada dasarnya, transmisi satelit televise, telepon dan informasi lain menghilangkan pengaruh jarak pada biaya komunikasi.
+
+Dampak positif dan dampak negative dari perkembangan teknologi dilihat dari berbagai bidang
+
+1.	Bidang Informasi dan komunikasi
+•	Dalam bidang informasi dan komunikasi telah terjadi kemajuan yang sangat pesat. Dari kemajuan dapat kita rasakan dampak positifnya antara lain:
