@@ -38,3 +38,7 @@ Dampak positif dan dampak negative dari perkembangan teknologi dilihat dari berb
 •	Dalam bidang informasi dan komunikasi telah terjadi kemajuan yang sangat pesat. Dari kemajuan dapat kita rasakan dampak positifnya antara lain:
 •	Kita akan lebih cepat mendapatkan informasi- informasi yang akurat dan terbaru di bumi bagian manapun melalui internet
 •	Kita dapat berkomunikasi dengan teman, maupun keluarga yang sangat jauh hanya dengan melalui handphone
+•	Kita mendapatkan layanan bank yang dengan sangat mudah.
+
+Disamping keuntungan-keuntungan yang kita peroleh ternyata kemajuan kemajuan teknologi tersebut dimanfaatkan juga untuk hal-hal yang negatif, antara lain:
+•	Pemanfaatan jasa komunikasi oleh jaringan teroris (Kompas)
