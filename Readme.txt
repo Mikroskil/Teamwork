@@ -51,3 +51,4 @@ Teknologi  mempunyai   peran  yang  sangat  penting  dalam  bidang  pendidikan  
 •	Berbagi hasil penelitian, hasil penelitian yang dimuat dalam internet akan mudah dimanfaatkan orang lain disegala penjuru dunia dengan cepat.
 •	Inovasi dalam pembelajaran semakin berkembang dengan adanya inovasi e-learning yang semakin memudahkan proses pendidikan.
 •	Peningkatan kualitas sumber daya manusia melalui pengembangan dan pendayagunaan teknologi informasi dan komunikasi.
+•	Sistem administrasi pada sebuah lembaga pendidikan akan semakin mudah dan lancar karena penerapan sistem TIK.
