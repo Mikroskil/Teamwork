@@ -45,5 +45,6 @@ Disamping keuntungan-keuntungan yang kita peroleh ternyata kemajuan kemajuan tek
 •	Penggunaan informasi tertentu dan situs tertentu yang terdapat di internet yang bisa disalah gunakan pihak tertentu untuk tujuan tertentu
 
 2.	BidangPendidikan
-Teknologimempunyaiperan yang sangatpentingdalambidangpendidikanantaralain :
-•	Munculnya media massa, khususnya media elektroniksebagaisumberilmudanpusatpendidikan. Dampakdarihaliniadalah guru bukannyasatu-satunyasumberilmupengetahuan.
+Teknologi  mempunyai   peran  yang  sangat  penting  dalam  bidang  pendidikan  antara  lain :
+•	Munculnya media massa, khususnya media elektronik sebagai sumber ilmu dan pusat pendidikan. Dampak dari hal ini adalah guru bukannya satu-satunya sumber ilmu  pengetahuan.
+•	Munculnyametode-metodepembelajaran yang baru, yang memudahkan siswa dan guru dalam proses pembelajaran. Dengan kemajuan teknologi terciptalah  metode-metode  baru yang membuat  siswa  mampu  memahami  materi-materi  yang   abstrak, karena materi tersebut dengan bantuan teknologi bias dibuat abstrak.
