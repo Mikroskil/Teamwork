@@ -52,3 +52,10 @@ Teknologi  mempunyai   peran  yang  sangat  penting  dalam  bidang  pendidikan  
 •	Inovasi dalam pembelajaran semakin berkembang dengan adanya inovasi e-learning yang semakin memudahkan proses pendidikan.
 •	Peningkatan kualitas sumber daya manusia melalui pengembangan dan pendayagunaan teknologi informasi dan komunikasi.
 •	Sistem administrasi pada sebuah lembaga pendidikan akan semakin mudah dan lancar karena penerapan sistem TIK.
+
+Dampak Negatif Teknologi Informasi dan Komunikasi di Bidang Pendidikan
+•	Mempertimbangkan pemakaian TIK dalam pendidikan, khususnya untuk anak di bawah umur yang masih harus dalam pengawasan ketika sedang melakukan pembelajaran dengan TIK. Analisis untung ruginya pemakaian.
+•	Perlu untuk tujuan yang jelas. TIK dipandang kurang efektif (atau tidak efektif) ketika tujuan untuk mereka gunakan tidak jelas.
+•	Tidak menjadikan TIK sebagai media atau sarana satu-satunya dalam pembelajaran, misalnya kita tidak hanya mendownload, tetapi masih tetap membeli buku-buku cetak, tidak hanya berkunjung ke digital library, namun juga masih berkunjung ke perpustakaan.
+•	Salah satu dampak negatif televisi adalah melatih anak untuk berpikir pendek dan bertahan berkonsentrasi dalam waktu yang singkat
+•	Mahasiswa dan kadang-kadang guru, bisa kecanduan aspek teknologi, bukan isi pelajaran. 
