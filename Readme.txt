@@ -43,3 +43,7 @@ Dampak positif dan dampak negative dari perkembangan teknologi dilihat dari berb
 Disamping keuntungan-keuntungan yang kita peroleh ternyata kemajuan kemajuan teknologi tersebut dimanfaatkan juga untuk hal-hal yang negatif, antara lain:
 •	Pemanfaatan jasa komunikasi oleh jaringan teroris (Kompas)
 •	Penggunaan informasi tertentu dan situs tertentu yang terdapat di internet yang bisa disalah gunakan pihak tertentu untuk tujuan tertentu
+
+2.	BidangPendidikan
+Teknologimempunyaiperan yang sangatpentingdalambidangpendidikanantaralain :
+•	Munculnya media massa, khususnya media elektroniksebagaisumberilmudanpusatpendidikan. Dampakdarihaliniadalah guru bukannyasatu-satunyasumberilmupengetahuan.
