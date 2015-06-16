@@ -48,3 +48,4 @@ Disamping keuntungan-keuntungan yang kita peroleh ternyata kemajuan kemajuan tek
 Teknologi  mempunyai   peran  yang  sangat  penting  dalam  bidang  pendidikan  antara  lain :
 •	Munculnya media massa, khususnya media elektronik sebagai sumber ilmu dan pusat pendidikan. Dampak dari hal ini adalah guru bukannya satu-satunya sumber ilmu  pengetahuan.
 •	Munculnyametode-metodepembelajaran yang baru, yang memudahkan siswa dan guru dalam proses pembelajaran. Dengan kemajuan teknologi terciptalah  metode-metode  baru yang membuat  siswa  mampu  memahami  materi-materi  yang   abstrak, karena materi tersebut dengan bantuan teknologi bias dibuat abstrak.
+•	Berbagi hasil penelitian, hasil penelitian yang dimuat dalam internet akan mudah dimanfaatkan orang lain disegala penjuru dunia dengan cepat.
